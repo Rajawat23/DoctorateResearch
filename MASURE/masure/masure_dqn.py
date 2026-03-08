@@ -56,7 +56,7 @@ MASUREAgent  -- Masksembles DQN agent (renamed from MaskembleDQN for clarity).
 
 Excluded
 --------
-network_predictions() and decision_function(): Ethias-specific offline inference
+network_predictions() and decision_function(): proprietary offline inference
 wrappers that assumed a private dataset format.  Not part of the public release.
 """
 

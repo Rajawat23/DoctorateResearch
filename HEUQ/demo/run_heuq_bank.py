@@ -5,7 +5,7 @@ Self-contained HEUQ demo using the publicly available UCI Bank Marketing dataset
 
 This demo reproduces the HEUQ methodology (paper Sections 4-5) on an open
 dataset so that the full pipeline can be verified without access to the private
-Ethias dataset used in the paper.
+insurance dataset used in the paper.
 
 Dataset
 -------

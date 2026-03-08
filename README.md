@@ -1,6 +1,6 @@
-# DoctorateResearch
+# Doctorate Research
 
-This repository contains the public research code for fulfillment of doctorate on uncertainty quantification in machine learning and reinforcement learning.
+This repository contains the public research code for fulfillment of doctorate on uncertainty quantification in machine learning and reinforcement learning for PhD candidate Akash Singh.
 
 All code runs on publicly available datasets and benchmarks only.
 

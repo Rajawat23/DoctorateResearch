@@ -1,0 +1,17 @@
+wandb/
+logs/
+runs/
+results/
+__pycache__/
+*.pth
+*.pkl
+*.ckpt
+*.npy
+*.csv
+.env
+.netrc
+*.egg-info/
+dist/
+build/
+.DS_Store
+SANITIZATION_CHECKLIST.md
